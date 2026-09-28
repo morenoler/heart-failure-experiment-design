@@ -40,11 +40,8 @@ python -m unittest discover -s tests
 
 Первый скрипт обновит [JSON с результатами](output/summary.json) и SVG-график. Фиксированный seed делает расчёт повторяемым.
 
-## Данные и права
+## Данные
 
 - [Карточка на Kaggle](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data).
-- [Первоисточник UCI](https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records), DOI: [10.24432/C5Z89R](https://doi.org/10.24432/C5Z89R).
-- CSV взят из первоисточника UCI. Контрольная сумма SHA-256: `9c73cea7468ff5d517801ec050fe9993da5912fce4b56f296f8df3b38dd75912`. Она совпадает с открытой копией файла на GitHub.
-- Лицензия данных: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). При использовании указывайте UCI Machine Learning Repository и исходную публикацию: Chicco D., Jurman G. (2020), [BMC Medical Informatics and Decision Making](https://doi.org/10.1186/s12911-020-1023-5).
 
 Анализ нужен для практики работы с данными и статистикой. Он не служит медицинской рекомендацией.
