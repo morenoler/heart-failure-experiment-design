@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="240" viewBox="0 0 760 240" role="img" aria-labelledby="title desc">
+<title id="title">Средняя фракция выброса по исходу</title>
+<desc id="desc">Описательное сравнение двух групп. Это не оценка эффекта лечения.</desc>
+<rect width="760" height="240" fill="#ffffff"/>
+<text x="20" y="28" font-family="Arial,sans-serif" font-size="19" font-weight="bold" fill="#162e3b">Фракция выброса и исход наблюдения</text>
+<text x="20" y="70" font-family="Arial,sans-serif" font-size="15" fill="#162e3b">Без события (n=203)</text>
+<rect x="190" y="51" width="362.4" height="26" rx="4" fill="#257b96"/>
+<text x="567.4" y="70" font-family="Arial,sans-serif" font-size="15" fill="#162e3b">40.3%</text>
+<text x="20" y="140" font-family="Arial,sans-serif" font-size="15" fill="#162e3b">С событием (n=96)</text>
+<rect x="190" y="121" width="301.2" height="26" rx="4" fill="#c76a42"/>
+<text x="506.2" y="140" font-family="Arial,sans-serif" font-size="15" fill="#162e3b">33.5%</text>
+<line x1="190" y1="182" x2="640" y2="182" stroke="#59707c"/>
+<text x="190" y="202" font-family="Arial,sans-serif" font-size="12" fill="#59707c">0%</text>
+<text x="622" y="202" font-family="Arial,sans-serif" font-size="12" fill="#59707c">50%</text>
+<text x="20" y="228" font-family="Arial,sans-serif" font-size="12" fill="#59707c">Группы не назначались случайно; сроки наблюдения различаются.</text>
+</svg>

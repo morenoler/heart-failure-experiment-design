@@ -1,0 +1,22 @@
+{
+  "source_rows": 299,
+  "missing_cells": 0,
+  "duplicate_rows": 0,
+  "outcome_counts": {
+    "0": 203,
+    "1": 96
+  },
+  "hypothesis": "Mean ejection fraction is equal across DEATH_EVENT groups",
+  "statistic": "mean(deceased) - mean(alive), percentage points",
+  "alive_mean": 40.26600985221675,
+  "deceased_mean": 33.46875,
+  "difference": -6.797259852216747,
+  "permutation_p_two_sided": 1.999960000799984e-05,
+  "bootstrap_95_interval": [
+    -9.68424030172414,
+    -3.9169501744663533
+  ],
+  "permutations": 50000,
+  "bootstraps": 20000,
+  "seed": 20260928
+}
